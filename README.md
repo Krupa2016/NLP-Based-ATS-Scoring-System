@@ -223,11 +223,3 @@ Bar chart showing the top-ranked resumes.
 * HR automation
 * Online job portals
 * Resume screening systems
-
-## Author
-
-Krupa
-
-Computer Engineering (AI & Cybersecurity)
-
-This project was developed as an Artificial Intelligence and Machine Learning practical implementation of Resume Parsing and Applicant Tracking System (ATS) scoring using Natural Language Processing techniques.
